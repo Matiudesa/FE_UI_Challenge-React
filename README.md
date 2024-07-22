@@ -25,3 +25,5 @@ npm run dev
 ```bash
 npm run dev
 ```
+
+The frontend listens to port :3000 and the backend to :8001
